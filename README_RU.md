@@ -1,5 +1,7 @@
 # Digger Game
 
+<img src="icon.png" width="96" height="96" alt="Игра Диггер">
+
 [English (default)](README.md)
 
 Нативный перенос Digger на Go для Windows, Linux и macOS. Игровые правила,
