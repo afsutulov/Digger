@@ -7,6 +7,13 @@
 Native Go port of the 1983 Digger game. See **README_RU.md** for full build,
 controls, fidelity and validation notes. The game does not execute the DOS COM.
 
+## Screenshots
+
+Actual screenshots of the running game.
+
+![Digger Game](screenshots/screenshot.png)
+
+
 ## Icon and Windows builds
 
 `digger.png` is embedded by `//go:embed` in `main.go` and passed to
