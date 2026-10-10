@@ -9,6 +9,10 @@
 Digger Remastered и её Java-версии, затем сверены с приложенным DIGGER.COM.
 DOSBox, Java и исходный COM для запуска этой игры не нужны.
 
+## Скриншот
+
+![Digger Game](screenshots/screenshot.png)
+
 ## Сборка из исходников
 
 Нужен **Go 1.24 или новее**. Все Go-зависимости включены в `vendor`, поэтому

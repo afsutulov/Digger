@@ -9,10 +9,7 @@ controls, fidelity and validation notes. The game does not execute the DOS COM.
 
 ## Screenshots
 
-Actual screenshots of the running game.
-
 ![Digger Game](screenshots/screenshot.png)
-
 
 ## Icon and Windows builds
 
