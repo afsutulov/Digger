@@ -1,6 +1,6 @@
 # Digger Game
 
-<img src="icon.png" width="96" height="96" alt="Digger Game">
+<img src="digger.png" width="96" height="96" alt="Digger Game">
 
 [Русская версия](README_RU.md)
 
