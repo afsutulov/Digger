@@ -1,5 +1,7 @@
 # Digger Game
 
+[English (default)](README.md)
+
 Нативный перенос Digger на Go для Windows, Linux и macOS. Игровые правила,
 спрайты, шрифт, планы уровней и таблицы музыки перенесены из реконструкции
 Digger Remastered и её Java-версии, затем сверены с приложенным DIGGER.COM.

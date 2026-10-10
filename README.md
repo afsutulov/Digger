@@ -1,5 +1,7 @@
 # Digger Game
 
+[Русская версия](README.RU.md)
+
 Native Go port of the 1983 Digger game. See **README_RU.md** for full build,
 controls, fidelity and validation notes. The game does not execute the DOS COM.
 
